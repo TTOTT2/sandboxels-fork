@@ -1,0 +1,5 @@
+elements.FALLOUT_BUNKER = {
+    color: "#ffffff",
+    behavior: behaviors.SOLID,
+    category: "solids",
+    viscosity: 100000,
